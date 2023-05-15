@@ -1,0 +1,209 @@
+.logo_image{
+    width: 200px;
+    height: auto;
+    margin: 0px 0px 0px 25px
+}
+.nave_center{
+    display: flex;
+    justify-content: space-between !important;
+    width: 100%;
+}
+.nav-link{
+    color: #8F8A99;
+
+}
+
+.headerillustration_image{
+    width: 500px;
+    height: auto;
+}
+p{
+    color: #7D7987;
+}
+a{
+    text-decoration:none;
+}
+.illustration{
+    margin-top: 191px;
+    /* width: 427px; */
+}
+.illustration_image{
+    margin-top:85px;
+}
+.illustrationbutton{
+    margin: 140px;
+    margin-top: -115px;
+}
+.illustration_image2{
+    width: 390px;
+    height: auto;
+}
+.illustration_image3{
+    width: 390px;
+    height: auto;
+    margin: 59px 0px 0px 130px;
+}
+
+.frame{
+    width: 115px;
+    height: auto;
+    margin-left: 16px;
+    margin-top: 26px;
+}
+.frame2{
+    width: 82px;
+    height: auto;
+    margin-left: 16px;
+    margin-top: 26px;
+}
+.frame3{
+    width: 81px;
+    height: auto;
+    margin-left: 16px;
+    margin-top: 26px;
+}
+.frame4{
+    width: 81px;
+    height: auto;
+    margin-left: 16px;
+    margin-top: 26px;
+}
+.frame5{
+    width: 128px;
+    height: auto;
+    margin-left: 16px;
+    margin-top: 26px;
+}
+.frame6{
+    width: 86px;
+    height: auto;
+    margin-left: 16px;
+    margin-top: 26px;
+}
+.doc_header{
+    margin-top: 22px;
+}
+.doc_content{
+    margin-top: 1px;
+}
+.onlinepharma_header{
+    margin-top: 22px;
+}
+.onlinepharma_content{
+    margin-top: 1px;
+}
+.consultation_content{
+    margin-top: 1px;
+}
+.consultation_header{
+    margin-top: 17px;
+}
+.details_header{
+    margin-top: 26px;
+}
+.details_content{
+    margin-top: 1px;
+}
+.emergency_header{
+    margin-top: 26px;
+}
+.emergency_content{
+    margin-top: 1px;
+}
+.tracking_header{
+    margin-top: 20px;
+}
+.tracking_content{
+    margin-top: 1px;
+}
+.healthcare_header{
+    margin-top: 103px;
+}
+.healthcare_content{
+    margin-top: 59px;
+}
+.healthcare_content2{
+    margin-top: 30px;
+}
+.healthcare_button{
+    margin-top: 11px;
+}
+.card{
+    width: 290px;
+    height: 300px;
+    margin: 10px 20px;
+}
+.button{
+    margin-top: 25px;
+}
+.overallpadding{
+    padding: 40px 0px 40px 0px;
+}
+.image1{
+    width: 275px;
+    height: auto;
+}
+.card1{
+    width: 290px;
+    height: 420px;
+    margin: 10px 20px;
+}
+/* .viewall_button{
+    
+} */
+.footerlogo{
+    width: 125px;
+    height: auto;
+    margin-top: 85px;
+}
+.footertextheader{
+    color: #FFFFFF;
+    font-size: 20px;
+    margin: 85px 0px 30px 0px;
+
+}
+.footertextcontent{
+    color: #FFFFFF;
+    font-size: 13px;
+    margin-top: -10px;
+}
+.footertextcontent1{
+    color: #FFFFFF;
+    margin-top: 35px;
+}
+.footerlogotextcontent{
+    color: #FFFFFF;
+    font-size: 16px;
+    margin-top: 22px;
+}
+.footerlogopadding{
+    padding-left: 80px;
+}
+.bg-gradient-custom{
+    background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+    height: 350px;
+}
+.carousel-bg-gradient{
+    background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+    height: 400px;
+    margin-top: 80px;
+    border-radius: 10px;
+}
+.carousel-image{
+    width: 150px;
+    height: auto;
+    margin: 118px 0px 0px 70px;
+}
+.headerpadding{
+    margin: 48px 0px 0px 0px;
+    color: #FFFFFF;
+}
+.carousel-p{
+    margin: 20px 00px 0px 0px;
+    color: #FFFFFF;
+}
+.custombutton{
+    border-radius: 100px;
+    width: 150px;
+    margin-top: 20px;
+}
